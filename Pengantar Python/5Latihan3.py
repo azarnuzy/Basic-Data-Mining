@@ -1,0 +1,6 @@
+panjang = int(input("panjang: "))
+lebar = int(input("lebar: "))
+print('Panjang : ', panjang)
+print('Lebar: ', lebar)
+print('Luas: {}'.format(panjang * lebar))
+print('Keliling: {}'.format(2*panjang + 2*lebar))

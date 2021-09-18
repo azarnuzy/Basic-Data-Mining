@@ -1,0 +1,6 @@
+i = int(input("input nilai int: "))
+r = float(input("input nilai float: "))
+nama = input("nama: ")
+print(i)
+print(r)
+print(nama)
